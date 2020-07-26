@@ -1,6 +1,8 @@
-# Project 1 for the Udacity DevOps Engineer Nanodegree - Deploy a Static Website to S3
+# Project 1 for the [Udacity DevOps Engineer Nanodegree](https://www.udacity.com/course/cloud-dev-ops-nanodegree--nd9991)
 
-## To build the site
+## Deploy a Static Website to S3
+
+### To build the site
 
 ```bash
 # The Makefile assumes you have appropriate credentials in your environment
